@@ -58,7 +58,7 @@ const Index = () => {
               <div className="mt-4 space-y-2">
                 <div className="flex items-center gap-2">
                   <Icon name="MapPin" size={16} />
-                  <span className="text-sm">Участки: 450 наделов</span>
+                  <span className="text-sm">Участки: 1000 наделов</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Icon name="Calendar" size={16} />
